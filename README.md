@@ -2,7 +2,7 @@
 
 A dynamic and engaging platform for the TIT Developer Community, built with React and Tailwind CSS, showcasing our mission to empower students through mentorship and hands-on learning.
 
-![TIT Developer Community](https://www.instagram.com/titdevelopercommunity?igsh=MTA1NGJ3M3czNWsyZQ==)
+
 
 ## 🚀 Live Demo
 
